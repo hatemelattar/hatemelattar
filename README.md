@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hatem Elattar
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning applied math for data science and data science application using Python and Pyspark
+- 🌱 I’m currently teaching applied math for data science and data science application using Python and Pyspark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
